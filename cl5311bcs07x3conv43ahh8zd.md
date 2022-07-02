@@ -1,4 +1,4 @@
-## Cross-Origin Resource Sharing (CORS) in FastAPI
+## How to resolve Cross-Origin Resource Sharing (CORS) issues in FastAPI
 
 While developing in local environment, you may need to connect your frontend to a local API endpoint. The connection is likely to fail with an error message like this: [Error] Failed to load resource: Origin http://localhost:3000 is not allowed by Access-Control-Allow-Origin.
 
