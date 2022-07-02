@@ -1,4 +1,4 @@
-## React-Query useQuery setup with axios and Context API
+## How to setup React-Query with axios and Context API
 
 This code snippet helps setup react-query to fetch data with axios from a GET request endpoint, and also pass the data to children components with React Context API.
 
