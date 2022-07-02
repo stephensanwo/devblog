@@ -1,4 +1,4 @@
-## Setting Up Python Logging
+## Introduction to Logging in Python
 
 This code snippet helps setup base logging for your applications in python.
 - Logging Format helps set the format of your logs
