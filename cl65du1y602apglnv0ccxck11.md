@@ -1,4 +1,4 @@
-## Build a Fullstack AI Chatbot with Redis, React, FastAPI and GPT - Part 3
+## Build a Fullstack AI Chatbot Part 3 - Real-Time Systems with Redis
 
 Our application currently does not store any state, and there is no way to identify users or store and retrieve chat data. We are also returning a hard-coded response to the client during chat sessions.
 
