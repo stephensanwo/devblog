@@ -1,4 +1,4 @@
-## Build a Fullstack AI Chatbot with Redis, React, FastAPI and GPT - Part 1
+## Build a Fullstack AI Chatbot Part 1 - Introduction
 
 In order to build a working full-stack application, there are so many moving parts to think about. And you'll need to make many decisions that will be critical to the success of your app.
 
