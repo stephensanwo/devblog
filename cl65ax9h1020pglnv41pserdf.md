@@ -25,7 +25,7 @@ I've carefully divided the project into sections to ensure that you can easily s
 
 You can download the full repository on [My Github here](https://github.com/stephensanwo/fullstack-ai-chatbot).
 
-### Application Architecture <a name="application-architecture"></a>
+### Application Architecture
 
 Sketching out a solution architecture gives you a high-level overview of your application, the tools you intend to use, and how the components will communicate with each other.
 
@@ -61,7 +61,7 @@ To send messages between the client and server in real-time, we need to open a s
 
 We will be using FastAPI for the chat server, as it provides a fast and modern Python server for our use. [Check out the FastAPI documentation](https://fastapi.tiangolo.com/advanced/websockets/?h=web)) to learn more about WebSockets.
 
-### How to Set Up the Development Environment <a name="how-to-set-up-the-development-environment"></a>
+### How to Set Up the Development Environment
 
 You can use your desired OS to build this app – I am currently using MacOS, and Visual Studio Code. Just make sure you have Python and NodeJs installed.
 
