@@ -1,4 +1,4 @@
-## Build a Fullstack AI Chatbot with Redis, React, FastAPI and GPT - Part 4
+## Build a Fullstack AI Chatbot Part 4 - Add Intelligence to Chatbots
 
 In this section, we will focus on building a wrapper to communicate with the transformer model, send prompts from a user to the API in a conversational format, and receive and transform responses for our chat application.
 
