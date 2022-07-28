@@ -1,4 +1,4 @@
-## Build a Fullstack AI Chatbot with Redis, React, FastAPI and GPT - Part 2
+## Build a Fullstack AI Chatbot Part 2 - Chat Server
 
 In this section, we will build the chat server using FastAPI to communicate with the user. We will use WebSockets to ensure bi-directional communication between the client and server so that we can send responses to the user in real-time.
 
